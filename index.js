@@ -7,4 +7,7 @@ function happyHolidaysTo (name) {
   return `Happy Holidays, ${name}!`
 }
 
-ha
+function happyHolidayTo (string,name) {
+  return `Happy ${holiday}, ${name}!`
+}
+
